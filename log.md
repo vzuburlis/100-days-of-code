@@ -59,4 +59,13 @@ for($i=0; $i=$end; $i+=$direction) {
 
 **Today's Progress**: Selebrated Asteroid's day by visiting a museum. Finished a new template fo Gila CMS.
 
+### Day 12: Jul 1, 2019
+
+**Today's Progress**: Used regex for a php unit test.
+
+### Day 13: Jul 2, 2019
+
+**Today's Progress**: Published the latest update of Gila CMS 1.10.9. 
+
+**Thoughts**: With no exceptions, must avoid all warnings cause from the code.
 
