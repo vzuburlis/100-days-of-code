@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
 
+### Day 19: Jul 8, 2019
+
+Started a new class that will refelct a table row from the database.
+
+### Day 18: Jul 7, 2019
+
+Fixed a bug at Gila CMS, where a widget could not save a text with the html tags.
+
+### Day 17: Jul 6, 2019
+
+Visited a friend and showed me some good stuff made with 3d printer. Little coding.
+
+### Day 16: Jul 5, 2019
+
+Edit a list of emails from the administration and save them in json format.
+
 ### Day 15: Jul 4, 2019
 
 **Today's Progress**: Refacture an old tool with angular and doctrine.he code.
