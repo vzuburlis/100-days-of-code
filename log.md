@@ -1,9 +1,17 @@
 # 100 Days Of Code - Log
 
 
+### Day 21: Jul 10, 2019
+
+Removed a bug from Gila CMS and released a new version.
+
+### Day 20: Jul 9, 2019
+
+Lost a lot of time trying to find why my automated test dont work.
+
 ### Day 19: Jul 8, 2019
 
-Started a new class that will refelct a table row from the database.
+Started a new class that will reflect a table row from the database.
 
 ### Day 18: Jul 7, 2019
 
