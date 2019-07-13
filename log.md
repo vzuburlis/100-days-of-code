@@ -1,6 +1,22 @@
 # 100 Days Of Code - Log
 
 
+### Day 21: Jul 12, 2019
+
+Found that CONCAT() gives null when the value from the parameters is missing. Used case to skip it.
+```
+CONCAT('Payment made',
+case when userName is NULL then '' else CONCAT(' from ', userName) end
+)
+```
+
+### Day 22: Jul 11, 2019
+
+Refreshed some CSS. This grid will give 4 columns max in big screens:
+```
+grid-template-columns: repeat(auto-fit, minmax(25%, 240px));
+```
+
 ### Day 21: Jul 10, 2019
 
 Removed a bug from Gila CMS and released a new version.
@@ -27,7 +43,7 @@ Edit a list of emails from the administration and save them in json format.
 
 ### Day 15: Jul 4, 2019
 
-**Today's Progress**: Refacture an old tool with angular and doctrine.he code.
+**Today's Progress**: Refacture an old tool with angular and doctrine.
 
 ### Day 14: Jul 4, 2019
 
