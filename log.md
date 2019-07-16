@@ -1,9 +1,22 @@
 # 100 Days Of Code - Log
 
 
+### Day 23: Jul 16, 2019
+
+Refreshed the vuejs properties and how to use them.
+
+### Day 22: Jul 15, 2019
+
+I had to make the frontend refresh its data only once by a response that comes every second. So I checked the state of a specific value, when it changes it will update the data
+```
+if (response.value1==1 && local.value1) {
+  for(i in response) local[i] = response[i];
+}
+```
+
 ### Day 21: Jul 12, 2019
 
-Found that CONCAT() gives null when the value from the parameters is missing. Used case to skip it.
+Found that CONCAT() in MySql gives null when the value from the parameters is missing. Used case to skip it.
 ```
 CONCAT('Payment made',
 case when userName is NULL then '' else CONCAT(' from ', userName) end
