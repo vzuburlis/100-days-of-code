@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 27-31: Jul 22-26, 2019
+
+No luck with the falling test. Refactured an edit page for entities.
+
+### Day 24-26: Jul 17-19, 2019
+
+Working on a test that keep falling on python with selenium :/
 
 ### Day 23: Jul 16, 2019
 
