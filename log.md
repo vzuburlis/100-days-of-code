@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 39-41: Aug 7-9, 2019
+Other than making a regression test, I finished a dungeon generator for my roguelike game.
+
+### Day 38: Aug 6, 2019
+Designed a multiquery api and found this nice e-book (link: http://pcgbook.com) pcgbook.com
+
+### Day 37: Aug 5, 2019
+Avoid duplicating code, you may end up with big pieces of junk. There is always a simple way to avoid that.
+
 ### Day 32-36: Jul 29 - Aug 2, 2019
 
 Finished the third version of my coffe break roguelike [Grey Oakwoods](https://vzuburlis.itch.io/grey-oakwoods).
