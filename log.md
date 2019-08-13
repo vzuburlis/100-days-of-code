@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 43: Aug 13, 2019
+Searching info for docker containers. Updated some functions on dungeon generator.
+
+### Day 42: Aug 12, 2019
+Created a new blog theme for [Gila CMS](https://github.com/gilacms/gila).
+
 ### Day 39-41: Aug 7-9, 2019
 Other than making a regression test, I finished a dungeon generator for my roguelike game.
 
