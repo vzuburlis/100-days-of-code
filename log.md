@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 44-45: Sep 2, 2019
+Did not update for 2 weeks. So I'll take from here. Many improvements made with my idie game on mobile. It's getting more comfortable to work with vanilla javasript.
+
 ### Day 43: Aug 13, 2019
 Searching info for docker containers. Updated some functions on dungeon generator.
 
