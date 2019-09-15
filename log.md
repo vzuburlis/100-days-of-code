@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 54: Sep 15, 2019
+Published a turotial of how to create multisite.
+
+### Day 50-53: Sep 10-13, 2019
+Added more crsf protection for my framework.
+
 ### Day 49: Sep 9, 2019
 Checked the basic steps to turn a website to pwa. New project is on the way.
 
