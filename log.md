@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 55: Sep 16, 2019
+Made automated tests with jmeter by recording them from blazemeter.
+
 ### Day 54: Sep 15, 2019
 Published a turotial of how to create multisite.
 
