@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 58: Sep 19, 2019
+Created new github repository of my small game to better keep track of development.
+
+### Day 57: Sep 18, 2019
+Made redirects in php with header('Location: ..').
+
+### Day 56: Sep 17, 2019
+Finished some more regression tests.
+
 ### Day 55: Sep 16, 2019
 Made automated tests with jmeter by recording them from blazemeter.
 
