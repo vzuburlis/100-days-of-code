@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 61 : Sep 23, 2019
+Detected some small bugs in javascript, used vuejs to create main menu for game.
+
+### Day 60 : Sep 20, 2019
+Started logging the requests on onw of my websites.
+
+### Day 59 : Sep 19, 2019
+Fixed a broken breadcrumb with css. Found that $_COOKIE saves more reliably data from $_SESSION
+
 ### Day 58: Sep 19, 2019
 Created new github repository of my small game to better keep track of development.
 
