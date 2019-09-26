@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+### Day 62-64 : Sep 24-26, 2019
+Made more fixes to my browser game. And update it daily by git. Continuous delivery at its best :)
+
 ### Day 61 : Sep 23, 2019
 Detected some small bugs in javascript, used vuejs to create main menu for game.
 
