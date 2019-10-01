@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 66 : Sep 29, 2019
+Pubished a new version of gila cms and uploaded youtube videos.
+
+### Day 65 : Sep 28, 2019
+Published a new website. With impressive refections on hotfixes :p
+
 ### Day 62-64 : Sep 24-26, 2019
 Made more fixes to my browser game. And update it daily by git. Continuous delivery at its best :)
 
