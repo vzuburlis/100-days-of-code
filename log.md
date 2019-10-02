@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 69 : Oct 2, 2019
+My open source project Gila CMS got its first code contribution!!
+
+### Day 68 : Oct 1, 2019
+Added new feature on my javascript game.
+
+### Day 67 : Sep 30, 2019
+My reggression tests passed so easy today. Three merges on master is not a small thing!
+
 ### Day 66 : Sep 29, 2019
 Pubished a new version of gila cms and uploaded youtube videos.
 
