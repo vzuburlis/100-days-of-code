@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 73 : Oct 8, 2019
+Tried to to use phpmail with sendgrid but with no result.
+
+### Day 72 : Oct 7, 2019
+Published the new update of my broswer game.
+
+### Day 71 : Oct 4, 2019
+Started a new css grid design for a new website. Light backgound, nice google fonts.
+
+### Day 70 : Oct 3, 2019
+Deployed some automated tests on circleci
+
 ### Day 69 : Oct 2, 2019
 My open source project Gila CMS got its first code contribution!!
 
