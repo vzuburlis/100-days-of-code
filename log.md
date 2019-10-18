@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 79 : Oct 17, 2019
+Added more random stuff in my browser game. Seeing how to make it app with condova.
+
+### Day 76-78 : Oct 14-16, 2019
+Fixing bugs and add more security from csrf attacks.
+
+### Day 73-75 : Oct 9-11, 2019
+Prepering my javascript game with the final details to publish it.
+
 ### Day 73 : Oct 8, 2019
 Tried to to use phpmail with sendgrid but with no result.
 
