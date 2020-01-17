@@ -12,11 +12,13 @@
 ### Day 4: Jan 16, 2020
 
 **Today's Progress**: solved questions of java and got my GOLD badge on HackerRank and commited about numberformat class on my java guide
-also going to start with Maven .
-link to HackeRank: https://www.hackerrank.com/Sumyak
+also going to start with Maven.
+
+**link to HackeRank**: https://www.hackerrank.com/Sumyak
 ### Day 5: Jan 17, 2020
 
-**Today's Progress**: commited to my java guide also studied and implemented AWS CloudFront CDN
-link to that : https://d1t254w73rb7q7.cloudfront.net/Screenshot%20from%202019-12-15%2012-40-26.png
+**Today's Progress**: commited to my java guide also studied and implemented AWS CloudFront CDN.
+
+**link to that** : https://d1t254w73rb7q7.cloudfront.net/Screenshot%20from%202019-12-15%2012-40-26.png
 
 
