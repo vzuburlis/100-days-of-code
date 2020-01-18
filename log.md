@@ -20,5 +20,8 @@ also going to start with Maven.
 **Today's Progress**: commited to my java guide also studied and implemented AWS CloudFront CDN.
 
 **link to that** : https://d1t254w73rb7q7.cloudfront.net/Screenshot%20from%202019-12-15%2012-40-26.png
+### Day 6: Jan 18, 2020
+
+**Today's Progress**: commited to my java guide and solved problem solving questions .
 
 
