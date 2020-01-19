@@ -11,7 +11,7 @@
 **Today's Progress**: solved questions of java and problem solving on HackerRank also studied and implemented AWS Versioning , Cross Region Replication.
 ### Day 4: Jan 16, 2020
 
-**Today's Progress**: solved questions of java and got my GOLD badge on HackerRank and commited about numberformat class on my java guide
+**Today's Progress**: solved questions of java and got my "java" GOLD badge on HackerRank and commited about numberformat class on my java guide
 also going to start with Maven.
 
 **link to HackeRank**: https://www.hackerrank.com/Sumyak
