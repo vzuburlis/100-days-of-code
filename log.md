@@ -23,5 +23,9 @@ also going to start with Maven.
 ### Day 6: Jan 18, 2020
 
 **Today's Progress**: commited to my java guide and solved problem solving questions .
+### Day 7: Jan 19, 2020
+
+**Today's Progress**: started with maven ,studied java networking and solved questions on problem solving .
+
 
 
