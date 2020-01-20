@@ -26,6 +26,9 @@ also going to start with Maven.
 ### Day 7: Jan 19, 2020
 
 **Today's Progress**: started with maven ,studied java networking and solved questions on problem solving .
+### Day 8: Jan 20, 2020
+
+**Today's Progress**: started with maven and made a build using apache netbeans and solved questions of algorithm and array data structures problem solving.
 
 
 
