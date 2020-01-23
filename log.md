@@ -36,5 +36,9 @@ also going to start with Maven.
 
 **Today's Progress**:solved questions of algorithm problem solving and also commited on my java guide on java socket networking.
 
+### Day 11: Jan 23, 2020
+
+**Today's Progress**:solved questions of algorithm problem solving .
+
 
 
