@@ -42,8 +42,10 @@ also going to start with Maven.
 ### Day 12: Jan 24, 2020
 
 **Today's Progress**:solved questions of algorithm problem solving and got my 4th star on HackeRank in problem solving and studied about AWS Snowball, S3 Transfer Acceleration
-**AWS console:**https://s3.console.aws.amazon.com/s3/buckets/sccrenshot/?region=ap-south-1&tab=properties
-**HackerRank:**https://www.hackerrank.com/Sumyak
+
+**AWS console**:https://s3.console.aws.amazon.com/s3/buckets/sccrenshot/?region=ap-south-1&tab=properties
+
+**HackerRank**:https://www.hackerrank.com/Sumyak
 
 
 
