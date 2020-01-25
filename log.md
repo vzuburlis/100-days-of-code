@@ -48,7 +48,7 @@ also going to start with Maven.
 **HackerRank**:https://www.hackerrank.com/Sumyak
 ### Day 13: Jan 25, 2020
 
-**Today's Progress**:studied about apache MAVEN from udemy and startied solving google hashcode practice problems.
+**Today's Progress**:studied about apache MAVEN from udemy and started solving google hashcode practice problems.
 
 
 
