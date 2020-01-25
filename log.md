@@ -46,6 +46,10 @@ also going to start with Maven.
 **AWS console**:https://s3.console.aws.amazon.com/s3/buckets/sccrenshot/?region=ap-south-1&tab=properties
 
 **HackerRank**:https://www.hackerrank.com/Sumyak
+### Day 13: Jan 25, 2020
+
+**Today's Progress**:studied about apache MAVEN from udemy and startied solving google hashcode practice problems.
+
 
 
 
