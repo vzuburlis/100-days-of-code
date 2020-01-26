@@ -49,6 +49,12 @@ also going to start with Maven.
 ### Day 13: Jan 25, 2020
 
 **Today's Progress**:studied about apache MAVEN from udemy and started solving google hashcode practice problems.
+### Day 14: Jan 26, 2020
+
+**Today's Progress**:commited about java networking on my java guide ,solved some linux shell questions on HackerRank and studied about MAVEN using cmd.
+
+**link to HackerRank**:https://www.hackerrank.com/domains/shell?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved
+
 
 
 
