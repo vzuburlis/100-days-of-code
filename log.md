@@ -54,6 +54,9 @@ also going to start with Maven.
 **Today's Progress**:commited about java networking on my java guide ,solved some linux shell questions on HackerRank and studied about MAVEN using cmd.
 
 **link to HackerRank**:https://www.hackerrank.com/domains/shell?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved
+### Day 15: Jan 27, 2020
+
+**Today's Progress**:practiced some java programs and linux shell questions on HackerRank.
 
 
 
