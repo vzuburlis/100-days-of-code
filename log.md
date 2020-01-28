@@ -57,6 +57,9 @@ also going to start with Maven.
 ### Day 15: Jan 27, 2020
 
 **Today's Progress**:practiced some java programs and linux shell questions on HackerRank.
+### Day 16: Jan 28, 2020
+
+**Today's Progress**:practiced data structures(sorting) using java and solved problem solving on HackerRank.
 
 
 
