@@ -60,6 +60,11 @@ also going to start with Maven.
 ### Day 16: Jan 28, 2020
 
 **Today's Progress**:practiced data structures(sorting) using java and solved problem solving on HackerRank.
+### Day 17: Jan 26, 2020
+
+**Today's Progress**:started with some python basics and got my second python star on HackerRank.
+
+**link to HackerRank**:https://www.hackerrank.com/Sumyak
 
 
 
