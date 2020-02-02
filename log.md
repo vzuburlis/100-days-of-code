@@ -73,7 +73,7 @@ also going to start with Maven.
 **Today's Progress**:participated in a Hackathon and started with our project
 ### Day 20: Feb 2, 2020
 
-**Today's Progress**:build a java swing application and commited to it my java guide
+**Today's Progress**:build a java swing application and commited it to my java guide
 
 
 
