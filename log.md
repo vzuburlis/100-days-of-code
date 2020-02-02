@@ -68,9 +68,12 @@ also going to start with Maven.
 ### Day 18: Jan 30, 2020
 
 **Today's Progress**:done some python basics and solved some question of python on HackerRank
-### Day 19: Jan 31, 2020
+### Day 19: Jan 31 - Feb 1, 2020
 
 **Today's Progress**:participated in a Hackathon and started with our project
+### Day 20: Feb 2, 2020
+
+**Today's Progress**:build a java swing application and commited to it my java guide
 
 
 
