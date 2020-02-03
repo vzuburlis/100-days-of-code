@@ -74,6 +74,11 @@ also going to start with Maven.
 ### Day 20: Feb 2, 2020
 
 **Today's Progress**:build a java swing application and commited it to my java guide
+### Day 21: Feb 3, 2020
+
+**Today's Progress**:build a another window for my java swing application and connected both via common button,also earned 3rd star in python.
+
+**HackerRank**:https://www.hackerrank.com/Sumyak
 
 
 
