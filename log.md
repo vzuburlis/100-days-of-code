@@ -79,6 +79,9 @@ also going to start with Maven.
 **Today's Progress**:build a another window for my java swing application and connected both via common button,also earned 3rd star in python.
 
 **HackerRank**:https://www.hackerrank.com/Sumyak
+### Day 22: Feb 3, 2020
+
+**Today's Progress**:resolved my hackathon project problem in code , commited in CODERED in my java guide apart from this still stuck in a python problem :(
 
 
 
