@@ -85,6 +85,9 @@ also going to start with Maven.
 ### Day 23: Feb 5, 2020
 
 **Today's Progress**:comitted to CODERED and solved problem solving questions on HackerRank
+### Day 24: Feb 6, 2020
+
+**Today's Progress**:comitted to CODERED, studied about some network devices and started with a problem solving question.
 
 
 
