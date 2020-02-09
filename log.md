@@ -94,6 +94,9 @@ also going to start with Maven.
 ### Day 26: Feb 8, 2020
 
 **Today's Progress**:solved problem solving questions on HackerRank waiting for 850/850 currently on 631/850.
+### Day 27: Feb 9, 2020
+
+**Today's Progress**:solved problem solving questions on HackerRank waiting for 850/850 currently on 691/850 and studied about AWS EC2 and AWS EBS .
 
 
 
