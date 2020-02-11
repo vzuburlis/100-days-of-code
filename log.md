@@ -100,7 +100,11 @@ also going to start with Maven.
 ### Day 28: Feb 10, 2020
 
 **Today's Progress**:solved problem solving questions on HackerRank waiting for 850/850 currently on 741/850.
+### Day 29: Feb 11, 2020
 
+**Today's Progress**:solved questions of algorithm problem solving currently on 796/850 also created a instance on AWS EC2.
+
+**AWS console**:https://ap-south-1.console.aws.amazon.com/ec2/v2/home?region=ap-south-1#Instances:sort=instanceId
 
 
 
