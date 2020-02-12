@@ -105,6 +105,11 @@ also going to start with Maven.
 **Today's Progress**:solved questions of algorithm problem solving currently on 796/850 also created a instance on AWS EC2.
 
 **AWS console**:https://ap-south-1.console.aws.amazon.com/ec2/v2/home?region=ap-south-1#Instances:sort=instanceId
+### Day 30: Feb 12, 2020
+
+**Today's Progress**:Finally its 850/850 earned my gold badge in problem solving and also made my LINUX shell rank to 4 digits
+
+**HackerRank**:  https://www.hackerrank.com/Sumyak
 
 
 
