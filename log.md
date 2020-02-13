@@ -110,6 +110,9 @@ also going to start with Maven.
 **Today's Progress**:Finally its 850/850 earned my gold badge in problem solving and also made my LINUX shell rank to 4 digits
 
 **HackerRank**:  https://www.hackerrank.com/Sumyak
+### Day 31: Feb 13, 2020
+
+**Today's Progress**:revised some java concepts
 
 
 
