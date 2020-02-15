@@ -116,6 +116,9 @@ also going to start with Maven.
 ### Day 32: Feb 14, 2020
 
 **Today's Progress**:done some shell scripting and started with java JDBC.
+### Day 33: Feb 15, 2020
+
+**Today's Progress**:revised java static and final keyword ,abstract class and interface.
 
 
 
