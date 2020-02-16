@@ -119,6 +119,9 @@ also going to start with Maven.
 ### Day 33: Feb 15, 2020
 
 **Today's Progress**:revised java static and final keyword ,abstract class and interface.
+### Day 34: Feb 16, 2020
+
+**Today's Progress**:commited about java abstraction and multiple inheritance to my java guide.
 
 
 
