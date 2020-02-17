@@ -122,7 +122,8 @@ also going to start with Maven.
 ### Day 34: Feb 16, 2020
 
 **Today's Progress**:commited about java abstraction and multiple inheritance to my java guide.
+### Day 35: Feb 17, 2020
 
-
+**Today's Progress**:didn't done much today just studied some articles on diffrent flavours of LINUX.
 
 
