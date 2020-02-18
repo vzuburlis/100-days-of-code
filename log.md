@@ -115,7 +115,7 @@ also going to start with Maven.
 **Today's Progress**:revised some java concepts
 ### Day 32: Feb 14, 2020
 
-**Today's Progress**:done some shell scripting and started with java JDBC.
+**Today's Progress**:done some shell scripting .
 ### Day 33: Feb 15, 2020
 
 **Today's Progress**:revised java static and final keyword ,abstract class and interface.
@@ -125,5 +125,8 @@ also going to start with Maven.
 ### Day 35: Feb 17, 2020
 
 **Today's Progress**:didn't done much today just studied some articles on diffrent flavours of LINUX.
+### Day 36: Feb 18, 2020
+
+**Today's Progress**:commited to my java guide and started with java Data Structures done Heap sort.
 
 
