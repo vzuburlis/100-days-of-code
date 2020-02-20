@@ -131,5 +131,8 @@ also going to start with Maven.
 ### Day 37: Feb 19, 2020
 
 **Today's Progress**:done questions of 30 Days of code on Hackerank(4 challenges to go for my 4th badge) also commited about the same on problem solving repository.
+### Day 38: Feb 20, 2020
+
+**Today's Progress**:done some java programs and going to be started with google HashCode.
 
 
