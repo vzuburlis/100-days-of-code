@@ -136,6 +136,10 @@ also going to start with Maven.
 **Today's Progress**:done some java programs and going to be started with google HashCode.
 ### Day 39: Feb 21, 2020
 
-**Today's Progress**:participated in google hashcode and a ACM coding event today and need to say that i have to work on my speed to write and understand the code.
+**Today's Progress**:participated in google hashcode and a ACM coding event today and need to say that i have to work on my speed to write and make logics of the program.
+### Day 40: Feb 22, 2020
+
+**Today's Progress**:studied about markdown language and made a readme.md for my upes java lab manual and commited in java programs for the same also done data structures using java (insertion sort).
+**readme.md**: https://github.com/sumyak/java-programs/blob/master/README.md
 
 
