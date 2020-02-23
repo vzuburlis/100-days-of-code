@@ -142,5 +142,8 @@ also going to start with Maven.
 **Today's Progress**:studied about markdown language and made a readme.md for my upes java lab manual and commited in java programs for the same also done data structures using java (insertion sort).
 
 **readme.md**: https://github.com/sumyak/java-programs/blob/master/README.md
+### Day 41: Feb 23, 2020
+
+**Today's Progress**:started with HackerEarth and solved problems on basic programing also started a course of AWS on coursera.
 
 
