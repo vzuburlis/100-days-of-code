@@ -145,5 +145,12 @@ also going to start with Maven.
 ### Day 41: Feb 23, 2020
 
 **Today's Progress**:started with HackerEarth and solved problems on basic programing also started a course of AWS on coursera.
+### Day 42: Feb 24, 2020
+
+**Today's Progress**:solved problems on basic programing on HackerEarth also hosted a web page using AWS EC2 instance on Apache server.
+
+**link to instance**:https://ap-south-1.console.aws.amazon.com/ec2/v2/home?region=ap-south-1#Instances:sort=keyName
+
+**link to webpage**http://52.66.208.106/name.html
 
 
