@@ -152,5 +152,8 @@ also going to start with Maven.
 **link to instance**:https://ap-south-1.console.aws.amazon.com/ec2/v2/home?region=ap-south-1#Instances:sort=keyName
 
 **link to webpage**http://52.66.208.106/name.html
+### Day 43: Feb 24, 2020
+
+**Today's Progress**: got stuck in java problem statement.
 
 
