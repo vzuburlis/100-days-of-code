@@ -155,5 +155,8 @@ also going to start with Maven.
 ### Day 43: Feb 24, 2020
 
 **Today's Progress**: got stuck in java problem statement.
+### Day 44: Feb 25, 2020
+
+**Today's Progress**:solved java problem statement also done questions on Basic programing on HackerEarth.
 
 
