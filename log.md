@@ -158,5 +158,8 @@ also going to start with Maven.
 ### Day 44: Feb 25, 2020
 
 **Today's Progress**:solved java problem statement also done questions on Basic programing on HackerEarth.
+### Day 45: Feb 26, 2020
+
+**Today's Progress**:started with git coursera, done some java program and also done data structure (Quicksort).
 
 
