@@ -152,14 +152,16 @@ also going to start with Maven.
 **link to instance**:https://ap-south-1.console.aws.amazon.com/ec2/v2/home?region=ap-south-1#Instances:sort=keyName
 
 **link to webpage**http://52.66.208.106/name.html
-### Day 43: Feb 24, 2020
+### Day 43: Feb 25, 2020
 
 **Today's Progress**: got stuck in java problem statement.
-### Day 44: Feb 25, 2020
+### Day 44: Feb 26, 2020
 
 **Today's Progress**:solved java problem statement also done questions on Basic programing on HackerEarth.
-### Day 45: Feb 26, 2020
+### Day 45: Feb 27, 2020
 
 **Today's Progress**:started with git coursera, done some java program and also done data structure (Quicksort).
+### Day 46: Feb 28, 2020
 
+**Today's Progress**:completed with my going cloud natives on coursera and also done problems on HackerEarth.
 
