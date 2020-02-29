@@ -164,4 +164,7 @@ also going to start with Maven.
 ### Day 46: Feb 28, 2020
 
 **Today's Progress**:completed with my going cloud natives on coursera and also done problems on HackerEarth.
+### Day 47: Feb 29, 2020
+
+**Today's Progress**:implemented stack data structure and done some problems on HackerEarth.
 
