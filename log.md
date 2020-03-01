@@ -167,4 +167,7 @@ also going to start with Maven.
 ### Day 47: Feb 29, 2020
 
 **Today's Progress**:implemented stack data structure and done some problems on HackerEarth.
+### Day 48: Feb 29, 2020
+
+**Today's Progress**:studied Queue data structure and done some problems on HackerEarth.
 
