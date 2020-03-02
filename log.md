@@ -167,7 +167,10 @@ also going to start with Maven.
 ### Day 47: Feb 29, 2020
 
 **Today's Progress**:implemented stack data structure and done some problems on HackerEarth.
-### Day 48: Feb 29, 2020
+### Day 48: Mar 1, 2020
 
 **Today's Progress**:studied Queue data structure and done some problems on HackerEarth.
+### Day 49: Mar 2, 2020
+
+**Today's Progress**:studied about AWS( EBS, EBS volume, security group, AWS AMI , load balancing).
 
