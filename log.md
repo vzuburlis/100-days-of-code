@@ -173,4 +173,7 @@ also going to start with Maven.
 ### Day 49: Mar 2, 2020
 
 **Today's Progress**:studied about AWS( EBS, EBS volume, security group, AWS AMI , load balancing).
+### Day 50: Mar 3, 2020
+
+**Today's Progress**:created AWS AMI ,done questions on HackerEarth on basic programing.
 
