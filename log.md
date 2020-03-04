@@ -176,4 +176,7 @@ also going to start with Maven.
 ### Day 50: Mar 3, 2020
 
 **Today's Progress**:created AWS AMI ,done questions on HackerEarth on basic programing.
+### Day 51: Mar 4, 2020
+
+**Today's Progress**:made a java GUI of sending a automatic OTP to a given phone number and verifying it. used testlocal API.
 
