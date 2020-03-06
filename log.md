@@ -179,4 +179,7 @@ also going to start with Maven.
 ### Day 51: Mar 4, 2020
 
 **Today's Progress**:made a java GUI of sending a automatic OTP to a given phone number and verifying it. used testlocal API.
+### Day 52-53: Mar 5-6 , 2020
+
+**Today's Progress**:done something on github workflow,done some questions on HackerEarth also got stuck, my API didnt working well :(
 
