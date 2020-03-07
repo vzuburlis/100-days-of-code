@@ -182,4 +182,7 @@ also going to start with Maven.
 ### Day 52-53: Mar 5-6 , 2020
 
 **Today's Progress**:done something on github workflow,done some questions on HackerEarth also got stuck, my API didnt working well :(
+### Day 54: Mar 7 , 2020
+
+**Today's Progress**:continued on github workflow and done questions on HackerEarth.
 
