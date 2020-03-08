@@ -185,4 +185,7 @@ also going to start with Maven.
 ### Day 54: Mar 7 , 2020
 
 **Today's Progress**:continued on github workflow and done questions on HackerEarth.
+### Day 55: Mar 8 , 2020
+
+**Today's Progress**: done questions on HackerEarth soon to get a rank in 4 digits in basic programing.
 
