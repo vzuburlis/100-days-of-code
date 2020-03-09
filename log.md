@@ -188,4 +188,7 @@ also going to start with Maven.
 ### Day 55: Mar 8 , 2020
 
 **Today's Progress**: done questions on HackerEarth soon to get a rank in 4 digits in basic programing.
+### Day 56: Mar 9 , 2020
+
+**Today's Progress**:implemented queue data structure using array in java.
 
