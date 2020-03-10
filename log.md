@@ -191,4 +191,7 @@ also going to start with Maven.
 ### Day 56: Mar 9 , 2020
 
 **Today's Progress**:implemented queue data structure using array in java.
+### Day 57: Mar 10 , 2020
+
+**Today's Progress**:studied about AWS load balancer and solved problems on HackerEarth.
 
