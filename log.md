@@ -194,4 +194,7 @@ also going to start with Maven.
 ### Day 57: Mar 10 , 2020
 
 **Today's Progress**:studied about AWS load balancer and solved problems on HackerEarth.
+### Day 58: Mar 11 , 2020
+
+**Today's Progress**:done nothing much today just done some java programs.
 
