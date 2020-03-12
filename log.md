@@ -197,4 +197,7 @@ also going to start with Maven.
 ### Day 58: Mar 11 , 2020
 
 **Today's Progress**:done nothing much today just done some java programs.
+### Day 59: Mar 12 , 2020
+
+**Today's Progress**:started implementing AWS load balancer and done questions on HackerEarth p.s taken 1 hour just to remove a lossy comperation error of BigInteger.
 
