@@ -200,4 +200,9 @@ also going to start with Maven.
 ### Day 59: Mar 12 , 2020
 
 **Today's Progress**:started implementing AWS load balancer and done questions on HackerEarth p.s taken 1 hour just to remove a lossy comperation error of BigInteger.
+### Day 60: Mar 13 , 2020
+
+**Today's Progress**:started a course of git and version control on coursera and done questions on HackerEarth and got my rank in 4 digits.
+
+**link to HackerEarth**: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/
 
