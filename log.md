@@ -205,4 +205,7 @@ also going to start with Maven.
 **Today's Progress**:started a course of git and version control on coursera and done questions on HackerEarth and got my rank in 4 digits.
 
 **link to HackerEarth**: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/
+### Day 61: Mar 14 , 2020
+
+**Today's Progress**:studied about APACHE MAVEN on udemy.
 
