@@ -208,4 +208,7 @@ also going to start with Maven.
 ### Day 61: Mar 14 , 2020
 
 **Today's Progress**:studied about APACHE MAVEN on udemy.
+### Day 62: Mar 15 , 2020
+
+**Today's Progress**:merged a automated security dependency pull request and studied git version control on coursera.
 
