@@ -217,5 +217,8 @@ also going to start with Maven.
 ### Day 64: Mar 17 , 2020
 
 **Today's Progress**:commited some programs to my java programs repo.
+### Day 65: Mar 18 , 2020
+
+**Today's Progress**:done questions on HackerEarth and completed another week of git version control on coursera.
 
 
