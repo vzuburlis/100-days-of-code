@@ -220,7 +220,7 @@ also going to start with Maven.
 ### Day 65: Mar 18 , 2020
 
 **Today's Progress**:done questions on HackerEarth and completed another week of git version control on coursera.
-### Day 66: Mar 18 , 2020
+### Day 66: Mar 19 , 2020
 
 **Today's Progress**:done questions on HackerEarth and started building a github Workflow.
 
