@@ -223,5 +223,10 @@ also going to start with Maven.
 ### Day 66: Mar 19 , 2020
 
 **Today's Progress**:done questions on HackerEarth and started building a github Workflow.
+### Day 67: Mar 20 , 2020
+
+**Today's Progress**:done questions on HackerEarth and got a certificate of git and version control on coursera.
+
+**link to certificate** :https://www.coursera.org/account/accomplishments/records/AFVG4F8G5RNY
 
 
