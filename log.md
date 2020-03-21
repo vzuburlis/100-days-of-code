@@ -228,5 +228,8 @@ also going to start with Maven.
 **Today's Progress**:done questions on HackerEarth and got a certificate of git and version control on coursera.
 
 **link to certificate** :https://www.coursera.org/account/accomplishments/records/AFVG4F8G5RNY
+### Day 68: Mar 21 , 2020
+
+**Today's Progress**:done questions on HackerEarth .
 
 
