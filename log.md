@@ -231,5 +231,8 @@ also going to start with Maven.
 ### Day 68: Mar 21 , 2020
 
 **Today's Progress**:done questions on HackerEarth .
+### Day 69: Mar 22 , 2020
+
+**Today's Progress**:done questions on HackerEarth and participated in google kickstart round A and got a rank around 6-7k.
 
 
