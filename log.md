@@ -235,10 +235,10 @@ also going to start with Maven.
 
 **Today's Progress**: participated in google kickstart round A and got a rank around 6-7k also done questions on
  HackerEarth.
-### Day 70: Mar 22 , 2020
+### Day 70: Mar 23 , 2020
 
 **Today's Progress**: done questions on HackerEarth.
-### Day 71: Mar 23 , 2020
+### Day 71: Mar 24 , 2020
 
 **Today's Progress**: done questions on HackerEarth,started launching VM using vagrant cloud also done a multitasking java program.
         
