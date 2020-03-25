@@ -241,6 +241,12 @@ also going to start with Maven.
 ### Day 71: Mar 24 , 2020
 
 **Today's Progress**: done questions on HackerEarth,started launching VM using vagrant cloud also done a multitasking java program.
+
+### Day 72: Mar 25 , 2020
+
+**Today's Progress**: done questions on HackerEarth,ready to launch VM using vagrant cloud 
+        
+        
         
         
         
