@@ -251,7 +251,11 @@ also going to start with Maven.
 ### Day 74: Mar 27 , 2020
 
 **Today's Progress**: studied about  AWS- Database Services (Elasticache) also started creating AWS RDS instance and done question on HackerEarth.
-        
+### Day 75-76: Mar 28-29 , 2020
+
+**Progress**: made a AWS EC2 instance , made a AWS RDS instance and connected RDS database to EC2 instance using php MySql also done questions on HackeEarth.
+**EC2 ip**:13.234.213.232
+**link to RDS**:https://ap-south-1.console.aws.amazon.com/rds/home?region=ap-south-1#databases:
         
         
         
