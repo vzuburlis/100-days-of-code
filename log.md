@@ -258,6 +258,9 @@ also going to start with Maven.
 **EC2 ip**:13.234.213.232
 
 **link to RDS**:https://ap-south-1.console.aws.amazon.com/rds/home?region=ap-south-1#databases:
+### Day 77: Mar 30 , 2020
+
+**Today's Progress**:made a complete apache maven guide on github to make a simple maven project using cmd and started working on making a twitter bot using java.
         
         
         
