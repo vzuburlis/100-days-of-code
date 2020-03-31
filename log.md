@@ -261,6 +261,9 @@ also going to start with Maven.
 ### Day 77: Mar 30 , 2020
 
 **Today's Progress**:made a complete apache maven guide on github to make a simple maven project using cmd and started working on making a twitter bot using java.
+### Day 78: Mar 31 , 2020
+
+**Today's Progress**:started with 10 days of statistics on HackerRank.
         
         
         
