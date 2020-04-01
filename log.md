@@ -264,7 +264,11 @@ also going to start with Maven.
 ### Day 78: Mar 31 , 2020
 
 **Today's Progress**:started with 10 days of statistics on HackerRank.
-        
+### Day 79: Apr 1 , 2020
+
+**Today's Progress**:made a twitter bot and added a functionality of tweeting a tweet on our account.
+
+**LINK** https://github.com/ReTweetDevOps       
         
         
         
