@@ -268,7 +268,10 @@ also going to start with Maven.
 
 **Today's Progress**:made a twitter bot and added a functionality of tweeting a tweet on our account.
 
-**LINK** https://github.com/ReTweetDevOps       
+**LINK** https://github.com/ReTweetDevOps  
+### Day 80: Apr 2 , 2020
+
+**Today's Progress**:done questions on HackerEarth
         
         
         
