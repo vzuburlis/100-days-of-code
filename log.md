@@ -272,7 +272,10 @@ also going to start with Maven.
 ### Day 80: Apr 2 , 2020
 
 **Today's Progress**:done questions on HackerEarth
-        
+### Day 81: Apr 3 , 2020
+
+**Today's Progress**:done programs about threading and collection class in java and comitted about the same in java programs.
+
         
         
 
