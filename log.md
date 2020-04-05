@@ -275,6 +275,9 @@ also going to start with Maven.
 ### Day 81: Apr 3 , 2020
 
 **Today's Progress**:done programs about threading and collection class in java and comitted about the same in java programs.
+### Day 82-83: Apr 4-5 , 2020
+
+**Today's Progress**:participated in google code jam from apr 4 (4.30 am) to apr 5 (7.30 am) qualified to next round and also researched about how to retweet using java for my bot.
 
         
         
