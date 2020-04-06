@@ -278,6 +278,9 @@ also going to start with Maven.
 ### Day 82-83: Apr 4-5 , 2020
 
 **Today's Progress**:participated in google code jam from apr 4 (4.30 am) to apr 5 (7.30 am) qualified to next round and also researched about how to retweet using java for my bot.
+### Day 84: Apr 6 , 2020
+
+**Today's Progress**:started learning github actions.
 
         
         
