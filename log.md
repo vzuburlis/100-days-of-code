@@ -281,7 +281,11 @@ also going to start with Maven.
 ### Day 84: Apr 6 , 2020
 
 **Today's Progress**:started learning github actions.
+### Day 85: Apr 7 , 2020
 
+**Today's Progress**:done question on statistics and got my 2nd star on HackerRank in that.
+
+**link:** https://www.hackerrank.com/Sumyak
         
         
 
