@@ -286,6 +286,11 @@ also going to start with Maven.
 **Today's Progress**:done question on statistics and got my 2nd star on HackerRank in that.
 
 **link:** https://www.hackerrank.com/Sumyak
+### Day 86: Apr 8 , 2020
+
+**Today's Progress**:added a functionality of watching our latest twitter timeline and done some questions on HackeEarth
+
+**link:** https://github.com/ReTweetDevOps
         
         
 
