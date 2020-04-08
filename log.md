@@ -288,7 +288,7 @@ also going to start with Maven.
 **link:** https://www.hackerrank.com/Sumyak
 ### Day 86: Apr 8 , 2020
 
-**Today's Progress**:added a functionality of watching our latest twitter timeline and done some questions on HackeEarth
+**Today's Progress**:added a functionality of watching our latest twitter timeline on my twitter bot and done some questions on HackeEarth.
 
 **link:** https://github.com/ReTweetDevOps
         
