@@ -291,7 +291,7 @@ also going to start with Maven.
 **Today's Progress**:added a functionality of watching our latest twitter timeline on my twitter bot and done some questions on HackeEarth.
 
 **link:** https://github.com/ReTweetDevOps
-### Day 89: Apr 9 , 2020
+### Day 87: Apr 9 , 2020
 
 **Today's Progress**:made a small command line progress animation using java.
         
