@@ -294,6 +294,9 @@ also going to start with Maven.
 ### Day 87: Apr 9 , 2020
 
 **Today's Progress**:made a small command line progress animation using java.
+### Day 88: Apr 10 , 2020
+
+**Today's Progress**:made a MySql database and created a table and inserted data using JDBC.
         
         
 
