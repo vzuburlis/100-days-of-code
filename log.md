@@ -297,6 +297,11 @@ also going to start with Maven.
 ### Day 88: Apr 10 , 2020
 
 **Today's Progress**:made a MySql database and created a table and inserted data using JDBC, also practiced some DS algos.
+### Day 89: Apr 11 , 2020
+
+**Today's Progress**:participated in google code jam round 1A and done with the complete algorithm for my twitter bot to retweet.
+
+**link:** https://github.com/ReTweetDevOps
         
         
 
