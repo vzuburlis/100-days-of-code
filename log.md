@@ -302,6 +302,11 @@ also going to start with Maven.
 **Today's Progress**:participated in google code jam round 1A and done with the complete algorithm for my twitter bot to retweet.
 
 **link:** https://github.com/ReTweetDevOps
+### Day 90: Apr 12 , 2020
+
+**Today's Progress**:added a new function of getting tweets in by twitter bot and done some questions on hackerearth.
+
+**link:** https://github.com/ReTweetDevOps
         
         
 
