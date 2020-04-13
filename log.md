@@ -309,7 +309,7 @@ also going to start with Maven.
 **link:** https://github.com/ReTweetDevOps
 ### Day 91: Apr 13 , 2020
 
-**Today's Progress**:done some questions on hackerearth and studied sometopics regarding DOCKER, also going to get started with a project in this week.
+**Today's Progress**:done some questions on hackerearth and studied some topics regarding DOCKER, also going to get started with a project in this week.
         
         
 
