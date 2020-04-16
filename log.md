@@ -316,6 +316,10 @@ also going to start with Maven.
 fix it really soon)
 
 **link:** https://github.com/ReTweetDevOps
+### Day 94: Apr 16 , 2020
+
+**Today's Progress**:started with some basic selenium testing.
+
 
         
         
