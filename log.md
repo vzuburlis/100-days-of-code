@@ -319,7 +319,7 @@ fix it really soon)
 ### Day 94: Apr 16 , 2020
 
 **Today's Progress**:started with some basic selenium testing.
-### Day 95: Apr 16 , 2020
+### Day 95: Apr 17 , 2020
 
 **Today's Progress**:did some questions on hackerEarth.
 
