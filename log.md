@@ -319,6 +319,11 @@ fix it really soon)
 ### Day 94: Apr 16 , 2020
 
 **Today's Progress**:started with some basic selenium testing.
+### Day 95: Apr 16 , 2020
+
+**Today's Progress**:did some questions on hackerEarth.
+
+**link:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/
 
 
         
