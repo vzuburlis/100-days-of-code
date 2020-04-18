@@ -324,6 +324,10 @@ fix it really soon)
 **Today's Progress**:did some questions on hackerEarth.
 
 **link:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/
+### Day 96: Apr 18 , 2020
+
+**Today's Progress**:almost done with making a selenium testing guide.
+
 
 
         
