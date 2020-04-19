@@ -327,6 +327,9 @@ fix it really soon)
 ### Day 96: Apr 18 , 2020
 
 **Today's Progress**:almost done with making a selenium testing guide.
+### Day 97: Apr 19 , 2020
+
+**Today's Progress**:made a selenium testing guide, participated in google kick start round b and also started with a project.
 
 
 
