@@ -330,6 +330,11 @@ fix it really soon)
 ### Day 97: Apr 19 , 2020
 
 **Today's Progress**:made a selenium testing guide, participated in google kick start round b and also started with a project.
+### Day 98: Apr 20 , 2020
+
+**Today's Progress**:made all my database and configured it with schema required for my next project, configured my apache tomcat server and just made a simple servlet page .
+
+**link: ** https://github.com/sumyak/java/tree/master/servlets
 
 
 
