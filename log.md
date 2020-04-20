@@ -334,7 +334,7 @@ fix it really soon)
 
 **Today's Progress**:made all my database and configured it with schema required for my next project, configured my apache tomcat server and just made a simple servlet page .
 
-**link: ** https://github.com/sumyak/java/tree/master/servlets
+**link:** https://github.com/sumyak/java/tree/master/servlets
 
 
 
