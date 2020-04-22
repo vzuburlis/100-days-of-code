@@ -335,6 +335,15 @@ fix it really soon)
 **Today's Progress**:made all my database and configured it with schema required for my next project, configured my apache tomcat server and just made a simple servlet page .
 
 **link:** https://github.com/sumyak/java/tree/master/servlets
+### Day 99-100: Apr 22 , 2020
+
+**Today's Progress**: configured my SMTP server, made my own domain on ubuntu to send mails to different user, added another feature of replying to a tweet on my tweet-bot also worked on the front-end of my current project. 
+
+**link:**: https://github.com/ReTweetDevOps
+**link:** https://github.com/sumyak/car-rental-system
+
+> Thank you i am done with my 100DaysOfCode and started with my 301DaysOfCode for further refference goto ![301DaysOfCode](https://github.com/sumyak/301DaysOfCode)
+
 
 
 
