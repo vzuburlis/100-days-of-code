@@ -342,7 +342,9 @@ fix it really soon)
 **link:**: https://github.com/ReTweetDevOps
 **link:** https://github.com/sumyak/car-rental-system
 
-> Thank you i am done with my 100DaysOfCode and started with my 301DaysOfCode for further refference goto ![301DaysOfCode](https://github.com/sumyak/301DaysOfCode)
+
+
+> Thank you i am done with my 100DaysOfCode and started with my 301DaysOfCode for further reference goto https://github.com/sumyak/301DaysOfCode
 
 
 
