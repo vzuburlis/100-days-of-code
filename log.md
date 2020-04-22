@@ -340,6 +340,7 @@ fix it really soon)
 **Today's Progress**: configured my SMTP server, made my own domain on ubuntu to send mails to different user, added another feature of replying to a tweet on my tweet-bot also worked on the front-end of my current project. 
 
 **link:**: https://github.com/ReTweetDevOps
+
 **link:** https://github.com/sumyak/car-rental-system
 
 
