@@ -1,233 +1,356 @@
 # 100 Days Of Code - Log
 
-### Day 79 : Oct 17, 2019
-Added more random stuff in my browser game. Seeing how to make it app with condova.
+### Day 1: Jan 13, 2020
 
-### Day 76-78 : Oct 14-16, 2019
-Fixing bugs and add more security from csrf attacks.
+**Today's Progress**: commited buffered input and output file to my java beginner guide and started with AWS and made bucket to store data.
+### Day 2: Jan 14, 2020
 
-### Day 73-75 : Oct 9-11, 2019
-Prepering my javascript game with the final details to publish it.
+**Today's Progress**: commited file reader and writer file to my java beginner guide and studied more about AWS, apart from this solved problem solving question on HackerRank.
+### Day 3: Jan 15, 2020
 
-### Day 73 : Oct 8, 2019
-Tried to to use phpmail with sendgrid but with no result.
+**Today's Progress**: solved questions of java and problem solving on HackerRank also studied and implemented AWS Versioning , Cross Region Replication.
+### Day 4: Jan 16, 2020
 
-### Day 72 : Oct 7, 2019
-Published the new update of my broswer game.
+**Today's Progress**: solved questions of java and got my "java" GOLD badge on HackerRank and commited about numberformat class on my java guide
+also going to start with Maven.
 
-### Day 71 : Oct 4, 2019
-Started a new css grid design for a new website. Light backgound, nice google fonts.
+**link to HackeRank**: https://www.hackerrank.com/Sumyak
+### Day 5: Jan 17, 2020
 
-### Day 70 : Oct 3, 2019
-Deployed some automated tests on circleci
+**Today's Progress**: commited to my java guide also studied and implemented AWS CloudFront CDN.
 
-### Day 69 : Oct 2, 2019
-My open source project Gila CMS got its first code contribution!!
+**link to that** : https://d1t254w73rb7q7.cloudfront.net/Screenshot%20from%202019-12-15%2012-40-26.png
+### Day 6: Jan 18, 2020
 
-### Day 68 : Oct 1, 2019
-Added new feature on my javascript game.
+**Today's Progress**: commited to my java guide and solved problem solving questions .
+### Day 7: Jan 19, 2020
 
-### Day 67 : Sep 30, 2019
-My reggression tests passed so easy today. Three merges on master is not a small thing!
+**Today's Progress**: started with maven ,studied java networking and solved questions on problem solving .
+### Day 8: Jan 20, 2020
 
-### Day 66 : Sep 29, 2019
-Pubished a new version of gila cms and uploaded youtube videos.
+**Today's Progress**: started with maven and made a build using apache netbeans and solved questions of algorithm and array data structures problem solving.
+### Day 9: Jan 21, 2020
 
-### Day 65 : Sep 28, 2019
-Published a new website. With impressive refections on hotfixes :p
+**Today's Progress**:solved questions of algorithm problem solving and also posted my solution on HackerRank and studied storage gateway {file gateway, tape gateway ,volume gateway} AWS.
+### Day 10: Jan 22, 2020
 
-### Day 62-64 : Sep 24-26, 2019
-Made more fixes to my browser game. And update it daily by git. Continuous delivery at its best :)
+**Today's Progress**:solved questions of algorithm problem solving and also commited on my java guide on java socket networking.
 
-### Day 61 : Sep 23, 2019
-Detected some small bugs in javascript, used vuejs to create main menu for game.
+### Day 11: Jan 23, 2020
 
-### Day 60 : Sep 20, 2019
-Started logging the requests on onw of my websites.
+**Today's Progress**:solved questions of algorithm problem solving .
+### Day 12: Jan 24, 2020
 
-### Day 59 : Sep 19, 2019
-Fixed a broken breadcrumb with css. Found that $_COOKIE saves more reliably data from $_SESSION
+**Today's Progress**:solved questions of algorithm problem solving and got my 4th star on HackeRank in problem solving and studied about AWS Snowball, S3 Transfer Acceleration
 
-### Day 58: Sep 19, 2019
-Created new github repository of my small game to better keep track of development.
+**AWS console**:https://s3.console.aws.amazon.com/s3/buckets/sccrenshot/?region=ap-south-1&tab=properties
 
-### Day 57: Sep 18, 2019
-Made redirects in php with header('Location: ..').
+**HackerRank**:https://www.hackerrank.com/Sumyak
+### Day 13: Jan 25, 2020
 
-### Day 56: Sep 17, 2019
-Finished some more regression tests.
+**Today's Progress**:studied about apache MAVEN from udemy and started solving google hashcode practice problems.
+### Day 14: Jan 26, 2020
 
-### Day 55: Sep 16, 2019
-Made automated tests with jmeter by recording them from blazemeter.
+**Today's Progress**:commited about java networking on my java guide ,solved some linux shell questions on HackerRank and studied about MAVEN using cmd.
 
-### Day 54: Sep 15, 2019
-Published a turotial of how to create multisite.
+**link to HackerRank**:https://www.hackerrank.com/domains/shell?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved
+### Day 15: Jan 27, 2020
 
-### Day 50-53: Sep 10-13, 2019
-Added more crsf protection for my framework.
+**Today's Progress**:practiced some java programs and linux shell questions on HackerRank.
+### Day 16: Jan 28, 2020
 
-### Day 49: Sep 9, 2019
-Checked the basic steps to turn a website to pwa. New project is on the way.
+**Today's Progress**:practiced data structures(sorting) using java and solved problem solving on HackerRank.
+### Day 17: Jan 29, 2020
 
-### Day 46-48: Sep 4-6, 2019
-Working on new ideas of the roguelike game. Trying unsuccessfully read downloaded files from the selenium webdriver.
+**Today's Progress**:started with some python basics and got my second python star on HackerRank.
 
-### Day 44-45: Sep 2-3, 2019
-Did not update for 2 weeks. So I'll take from here. Many improvements made with my idie game on mobile. It's getting more comfortable to work with vanilla javasript.
+**link to HackerRank**:https://www.hackerrank.com/Sumyak
+### Day 18: Jan 30, 2020
 
-### Day 43: Aug 13, 2019
-Searching info for docker containers. Updated some functions on dungeon generator.
+**Today's Progress**:done some python basics and solved some question of python on HackerRank
+### Day 19: Jan 31 - Feb 1, 2020
 
-### Day 42: Aug 12, 2019
-Created a new blog theme for [Gila CMS](https://github.com/gilacms/gila).
+**Today's Progress**:participated in a Hackathon and started with our project
+### Day 20: Feb 2, 2020
 
-### Day 39-41: Aug 7-9, 2019
-Other than making a regression test, I finished a dungeon generator for my roguelike game.
+**Today's Progress**:build a java swing application and commited it to my java guide
+### Day 21: Feb 3, 2020
 
-### Day 38: Aug 6, 2019
-Designed a multiquery api and found this nice e-book (link: http://pcgbook.com) pcgbook.com
+**Today's Progress**:build a another window for my java swing application and connected both via common button,also earned 3rd star in python.
 
-### Day 37: Aug 5, 2019
-Avoid duplicating code, you may end up with big pieces of junk. There is always a simple way to avoid that.
+**HackerRank**:https://www.hackerrank.com/Sumyak
+### Day 22: Feb 4, 2020
 
-### Day 32-36: Jul 29 - Aug 2, 2019
+**Today's Progress**:resolved my hackathon project problem in code , commited in CODERED in my java guide apart from this still stuck in a python problem :(
+### Day 23: Feb 5, 2020
 
-Finished the third version of my coffe break roguelike [Grey Oakwoods](https://vzuburlis.itch.io/grey-oakwoods).
+**Today's Progress**:comitted to CODERED and solved problem solving questions on HackerRank
+### Day 24: Feb 6, 2020
 
-### Day 27-31: Jul 22-26, 2019
+**Today's Progress**:comitted to CODERED, studied about some network devices and started with a problem solving question
+### Day 25: Feb 7, 2020
 
-No luck with the falling test. Refactured an edit page for entities.
+**Today's Progress**:solved problem solving questions on HackerRank.
+### Day 26: Feb 8, 2020
 
-### Day 24-26: Jul 17-19, 2019
+**Today's Progress**:solved problem solving questions on HackerRank waiting for 850/850 currently on 631/850.
+### Day 27: Feb 9, 2020
 
-Working on a test that keep falling on python with selenium :/
+**Today's Progress**:solved problem solving questions on HackerRank waiting for 850/850 currently on 691/850 and studied about AWS EC2 and AWS EBS .
+### Day 28: Feb 10, 2020
 
-### Day 23: Jul 16, 2019
+**Today's Progress**:solved problem solving questions on HackerRank waiting for 850/850 currently on 741/850.
+### Day 29: Feb 11, 2020
 
-Refreshed the vuejs properties and how to use them.
+**Today's Progress**:solved questions of algorithm problem solving currently on 796/850 also created a instance on AWS EC2.
 
-### Day 22: Jul 15, 2019
+**AWS console**:https://ap-south-1.console.aws.amazon.com/ec2/v2/home?region=ap-south-1#Instances:sort=instanceId
+### Day 30: Feb 12, 2020
 
-I had to make the frontend refresh its data only once by a response that comes every second. So I checked the state of a specific value, when it changes it will update the data
-```
-if (response.value1==1 && local.value1) {
-  for(i in response) local[i] = response[i];
-}
-```
+**Today's Progress**:Finally its 850/850 earned my gold badge in problem solving and also made my LINUX shell rank to 4 digits
 
-### Day 21: Jul 12, 2019
+**HackerRank**:  https://www.hackerrank.com/Sumyak
+### Day 31: Feb 13, 2020
 
-Found that CONCAT() in MySql gives null when the value from the parameters is missing. Used case to skip it.
-```
-CONCAT('Payment made',
-case when userName is NULL then '' else CONCAT(' from ', userName) end
-)
-```
+**Today's Progress**:revised some java concepts
+### Day 32: Feb 14, 2020
 
-### Day 22: Jul 11, 2019
+**Today's Progress**:done some shell scripting .
+### Day 33: Feb 15, 2020
 
-Refreshed some CSS. This grid will give 4 columns max in big screens:
-```
-grid-template-columns: repeat(auto-fit, minmax(25%, 240px));
-```
+**Today's Progress**:revised java static and final keyword ,abstract class and interface.
+### Day 34: Feb 16, 2020
 
-### Day 21: Jul 10, 2019
+**Today's Progress**:commited about java abstraction and multiple inheritance to my java guide.
+### Day 35: Feb 17, 2020
 
-Removed a bug from Gila CMS and released a new version.
+**Today's Progress**:didn't done much today just studied some articles on diffrent flavours of LINUX.
+### Day 36: Feb 18, 2020
 
-### Day 20: Jul 9, 2019
+**Today's Progress**:commited to my java guide and started with java Data Structures done Heap sort.
+### Day 37: Feb 19, 2020
 
-Lost a lot of time trying to find why my automated test dont work.
+**Today's Progress**:done questions of 30 Days of code on Hackerank(4 challenges to go for my 4th badge) also commited about the same on problem solving repository.
+### Day 38: Feb 20, 2020
 
-### Day 19: Jul 8, 2019
+**Today's Progress**:done some java programs and going to be started with google HashCode.
+### Day 39: Feb 21, 2020
 
-Started a new class that will reflect a table row from the database.
+**Today's Progress**:participated in google hashcode and a ACM coding event today and need to say that i have to work on my speed to write and make logics of the program.
+### Day 40: Feb 22, 2020
 
-### Day 18: Jul 7, 2019
+**Today's Progress**:studied about markdown language and made a readme.md for my upes java lab manual and commited in java programs for the same also done data structures using java (insertion sort).
 
-Fixed a bug at Gila CMS, where a widget could not save a text with the html tags.
+**readme.md**: https://github.com/sumyak/java-programs/blob/master/README.md
+### Day 41: Feb 23, 2020
 
-### Day 17: Jul 6, 2019
+**Today's Progress**:started with HackerEarth and solved problems on basic programing also started a course of AWS on coursera.
+### Day 42: Feb 24, 2020
 
-Visited a friend and showed me some good stuff made with 3d printer. Little coding.
+**Today's Progress**:solved problems on basic programing on HackerEarth also hosted a web page using AWS EC2 instance on Apache server.
 
-### Day 16: Jul 5, 2019
+**link to instance**:https://ap-south-1.console.aws.amazon.com/ec2/v2/home?region=ap-south-1#Instances:sort=keyName
 
-Edit a list of emails from the administration and save them in json format.
+**link to webpage**http://52.66.208.106/name.html
+### Day 43: Feb 25, 2020
 
-### Day 15: Jul 4, 2019
+**Today's Progress**: got stuck in java problem statement.
+### Day 44: Feb 26, 2020
 
-**Today's Progress**: Refacture an old tool with angular and doctrine.
+**Today's Progress**:solved java problem statement also done questions on Basic programing on HackerEarth.
+### Day 45: Feb 27, 2020
 
-### Day 14: Jul 4, 2019
+**Today's Progress**:started with git coursera, done some java program and also done data structure (Quicksort).
+### Day 46: Feb 28, 2020
 
-**Today's Progress**: Made the draft state for the block editor of Gila CMS. Data are stored in a json file until user saves them in the database or discards them.
+**Today's Progress**:completed with my going cloud natives on coursera and also done problems on HackerEarth.
+### Day 47: Feb 29, 2020
 
-### Day 13: Jul 2, 2019
+**Today's Progress**:implemented stack data structure and done some problems on HackerEarth.
+### Day 48: Mar 1, 2020
 
-**Today's Progress**: Published the latest update of Gila CMS 1.10.9. 
+**Today's Progress**:studied Queue data structure and done some problems on HackerEarth.
+### Day 49: Mar 2, 2020
 
-**Thoughts**: With no exceptions, must avoid all warnings cause from the code.
+**Today's Progress**:studied about AWS( EBS, EBS volume, security group, AWS AMI , load balancing).
+### Day 50: Mar 3, 2020
 
-### Day 12: Jul 1, 2019
+**Today's Progress**:created AWS AMI ,done questions on HackerEarth on basic programing.
+### Day 51: Mar 4, 2020
 
-**Today's Progress**: Used regex for a php unit test.
+**Today's Progress**:made a java GUI of sending a automatic OTP to a given phone number and verifying it. used testlocal API.
+### Day 52-53: Mar 5-6 , 2020
 
-### Day 11: Jun 30, 2019
+**Today's Progress**:done something on github workflow,done some questions on HackerEarth also got stuck, my API didnt working well :(
+### Day 54: Mar 7 , 2020
 
-**Today's Progress**: Selebrated Asteroid's day by visiting a museum. Finished a new template fo Gila CMS.
+**Today's Progress**:continued on github workflow and done questions on HackerEarth.
+### Day 55: Mar 8 , 2020
 
-### Day 10: Jun 29, 2019
+**Today's Progress**: done questions on HackerEarth soon to get a rank in 4 digits in basic programing.
+### Day 56: Mar 9 , 2020
 
-**Today's Progress**: Added the template field for pages. A feature I wanted to add for a long time, so you can choose the pages layout.
+**Today's Progress**:implemented queue data structure using array in java.
+### Day 57: Mar 10 , 2020
 
-### Day 9: Jun 28, 2019
+**Today's Progress**:studied about AWS load balancer and solved problems on HackerEarth.
+### Day 58: Mar 11 , 2020
 
-**Today's Progress**: Worked with css grid with less googling.
+**Today's Progress**:done nothing much today just done some java programs.
+### Day 59: Mar 12 , 2020
 
-### Day 8: Jun 27, 2019
+**Today's Progress**:started implementing AWS load balancer and done questions on HackerEarth p.s taken 1 hour just to remove a lossy comperation error of BigInteger.
+### Day 60: Mar 13 , 2020
 
-**Today's Progress**: Attended on a php meetup and see the views of junir and experiensed devs aboout web apis.
+**Today's Progress**:started a course of git and version control on coursera and done questions on HackerEarth and got my rank in 4 digits.
 
-### Day 7: Jun 26, 2019
+**link to HackerEarth**: https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/
+### Day 61: Mar 14 , 2020
 
-**Today's Progress**: Learned how a complicated html generator worked and made an update.
+**Today's Progress**:studied about APACHE MAVEN on udemy.
+### Day 62: Mar 15 , 2020
 
-**Thoughts**: Never try to invent new stuff for solving problems only once, there are tools for anything!
+**Today's Progress**:merged a automated security dependency pull request and studied git version control on coursera.
+### Day 63: Mar 16 , 2020
 
-### Day 6: Jun 25, 2019
+**Today's Progress**:done questions on HackerEarth.
+### Day 64: Mar 17 , 2020
 
-**Today's Progress**: Updated my docker image, added new tags.
+**Today's Progress**:commited some programs to my java programs repo.
+### Day 65: Mar 18 , 2020
 
-### Day 5: Jun 24, 2019
+**Today's Progress**:done questions on HackerEarth and completed another week of git version control on coursera.
+### Day 66: Mar 19 , 2020
 
-**Today's Progress**: Mostly bugfixes on my previous code.
+**Today's Progress**:done questions on HackerEarth and started building a github Workflow.
+### Day 67: Mar 20 , 2020
 
-### Day 4: Jun 23, 2019
+**Today's Progress**:done questions on HackerEarth and got a certificate of git and version control on coursera.
 
-**Today's Progress**: Check for json format and dont modify the data when is posted.
+**link to certificate** :https://www.coursera.org/account/accomplishments/records/AFVG4F8G5RNY
+### Day 68: Mar 21 , 2020
 
-**Thoughts**: Always use hmlentities() for html print. Escape quotes for tag props (href, src, ...)
+**Today's Progress**:done questions on HackerEarth .
+### Day 69: Mar 22 , 2020
 
-### Day 3: Jun 22, 2019
+**Today's Progress**: participated in google kickstart round A and got a rank around 6-7k also done questions on
+ HackerEarth.
+### Day 70: Mar 23 , 2020
 
-**Today's Progress**: Avoid some XSS injections in the database.
+**Today's Progress**: done questions on HackerEarth.
+### Day 71: Mar 24 , 2020
 
-**Thoughts**: Cannot trust any data, either they come from the client or your db.
+**Today's Progress**: done questions on HackerEarth,started launching VM using vagrant cloud also done a multitasking java program.
 
-### Day 2: Jun 21, 2019
+### Day 72: Mar 25 , 2020
 
-**Today's Progress**: Reduced an sql query by removing unused columns from sub SELECT.
+**Today's Progress**: done questions on HackerEarth,ready to launch VM using vagrant cloud 
+### Day 73: Mar 26 , 2020
 
-**Thoughts**: Table views and functions don't give any speed advantage. Only useful to keep the big queries in the db.
+**Today's Progress**: studied about  AWS- Database Services (Relational, Non Relational Database) and done question on HackerEarth.
+### Day 74: Mar 27 , 2020
 
-### Day 1: Jun 20, 2019
+**Today's Progress**: studied about  AWS- Database Services (Elasticache) also started creating AWS RDS instance and done question on HackerEarth.
+### Day 75-76: Mar 28-29 , 2020
 
-**Today's Progress**: Use spaceship operator for first time.
-```
-$direction = $end<=>$start;
-for($i=0; $i=$end; $i+=$direction) {
-  ...
-}
-```
-**Thoughts**: Should take advantage all the cool stuff php 7.x has to offer
+**Progress**: made a AWS EC2 instance , made a AWS RDS instance and connected RDS database to EC2 instance using php MySql also done questions on HackeEarth.
+
+**EC2 ip**:13.234.213.232
+
+**link to RDS**:https://ap-south-1.console.aws.amazon.com/rds/home?region=ap-south-1#databases:
+### Day 77: Mar 30 , 2020
+
+**Today's Progress**:made a complete apache maven guide on github to make a simple maven project using cmd and started working on making a twitter bot using java.
+### Day 78: Mar 31 , 2020
+
+**Today's Progress**:started with 10 days of statistics on HackerRank.
+### Day 79: Apr 1 , 2020
+
+**Today's Progress**:made a twitter bot and added a functionality of tweeting a tweet on our account.
+
+**LINK** https://github.com/ReTweetDevOps  
+### Day 80: Apr 2 , 2020
+
+**Today's Progress**:done questions on HackerEarth
+### Day 81: Apr 3 , 2020
+
+**Today's Progress**:done programs about threading and collection class in java and comitted about the same in java programs.
+### Day 82-83: Apr 4-5 , 2020
+
+**Today's Progress**:participated in google code jam from apr 4 (4.30 am) to apr 5 (7.30 am) qualified to next round and also researched about how to retweet using java for my bot.
+### Day 84: Apr 6 , 2020
+
+**Today's Progress**:started learning github actions.
+### Day 85: Apr 7 , 2020
+
+**Today's Progress**:done question on statistics and got my 2nd star on HackerRank in that.
+
+**link:** https://www.hackerrank.com/Sumyak
+### Day 86: Apr 8 , 2020
+
+**Today's Progress**:added a functionality of watching our latest twitter timeline on my twitter bot and done some questions on HackeEarth.
+
+**link:** https://github.com/ReTweetDevOps
+### Day 87: Apr 9 , 2020
+
+**Today's Progress**:made a small command line progress animation using java.
+### Day 88: Apr 10 , 2020
+
+**Today's Progress**:made a MySql database and created a table and inserted data using JDBC, also practiced some DS algos.
+### Day 89: Apr 11 , 2020
+
+**Today's Progress**:participated in google code jam round 1A and done with the complete algorithm for my twitter bot to retweet.
+
+**link:** https://github.com/ReTweetDevOps
+### Day 90: Apr 12 , 2020
+
+**Today's Progress**:added a new function of getting tweets in by twitter bot and done some questions on hackerearth.
+
+**link:** https://github.com/ReTweetDevOps
+### Day 91: Apr 13 , 2020
+
+**Today's Progress**:done some questions on hackerearth and studied some topics regarding DOCKER, also going to get started with a project in this week.
+### Day 92-93: Apr 14-15 , 2020
+
+**Today's Progress**:updated retweet devops organization and added another functionality of retweet(still there is some issue in it i'll
+fix it really soon)
+
+**link:** https://github.com/ReTweetDevOps
+### Day 94: Apr 16 , 2020
+
+**Today's Progress**:started with some basic selenium testing.
+### Day 95: Apr 17 , 2020
+
+**Today's Progress**:did some questions on hackerEarth.
+
+**link:** https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/
+### Day 96: Apr 18 , 2020
+
+**Today's Progress**:almost done with making a selenium testing guide.
+### Day 97: Apr 19 , 2020
+
+**Today's Progress**:made a selenium testing guide, participated in google kick start round b and also started with a project.
+### Day 98: Apr 20 , 2020
+
+**Today's Progress**:made all my database and configured it with schema required for my next project, configured my apache tomcat server and just made a simple servlet page .
+
+**link:** https://github.com/sumyak/java/tree/master/servlets
+### Day 99-100: Apr 22 , 2020
+
+**Today's Progress**: configured my SMTP server, made my own domain on ubuntu to send mails to different user, added another feature of replying to a tweet on my tweet-bot also worked on the front-end of my current project. 
+
+**link:**: https://github.com/ReTweetDevOps
+
+**link:** https://github.com/sumyak/car-rental-system
+
+
+
+> Thank you i am done with my 100DaysOfCode and started with my 301DaysOfCode for further reference goto https://github.com/sumyak/301DaysOfCode
+
+
+
+
+        
+        
+
+
